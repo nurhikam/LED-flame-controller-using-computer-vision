@@ -32,3 +32,6 @@ This is an Arduino-based project that utilizes computer vision techniques to con
 - Experiment with different color objects and flame colors
 
 This project demonstrates how computer vision can be used to creatively interact with physical hardware and create interesting IoT applications. Potential use cases could include interactive installations, visual effects, or immersive environments.
+
+## Explanatory Video
+https://drive.google.com/file/d/1yI5MF-KmZtKJbgD_z4UIU2Cq07_pNG0E/view?usp=sharing
