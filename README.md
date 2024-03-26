@@ -34,4 +34,5 @@ This is an Arduino-based project that utilizes computer vision techniques to con
 This project demonstrates how computer vision can be used to creatively interact with physical hardware and create interesting IoT applications. Potential use cases could include interactive installations, visual effects, or immersive environments.
 
 ## Explanatory Video
-https://drive.google.com/file/d/1yI5MF-KmZtKJbgD_z4UIU2Cq07_pNG0E/view?usp=sharing
+[![Demo Project](https://github.com/nurhikam/LED-flame-controller-using-computer-vision/assets/92198564/600ff30b-9e75-4855-882b-2f55e33e4622)](https://drive.google.com/file/d/1yI5MF-KmZtKJbgD_z4UIU2Cq07_pNG0E/view)
+
